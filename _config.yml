@@ -113,4 +113,7 @@ friends: [
     }
 ]
 
+# timezone 不设置不更新
+timezone:CN
+
 theme: jekyll-theme-slate
