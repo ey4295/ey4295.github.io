@@ -115,5 +115,6 @@ friends: [
 
 # timezone 不设置不更新
 timezone:CN
+future:true
 
 theme: jekyll-theme-slate
