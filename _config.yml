@@ -114,7 +114,7 @@ friends: [
 ]
 
 # timezone 不设置不更新
-timezone:Asia/Shanghai
-future:true
+timezone: UTC+8
+future: true
 
 theme: jekyll-theme-slate
