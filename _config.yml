@@ -114,7 +114,7 @@ friends: [
 ]
 
 # timezone 不设置不更新
-timezone:CN
+timezone:Asia/Shanghai
 future:true
 
 theme: jekyll-theme-slate
