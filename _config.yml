@@ -1,10 +1,10 @@
 # Site settings
-title: Xuqh Blog
-SEOTitle: 王难的博客 | BY Blog
+title: WN Blog
+SEOTitle: 王难的博客 | WN Blog
 header-img: img/post-bg-desk.jpg
 email: ey4295@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 一朵兔子的博客, 王难, iOS, Apple, iPhone"
+keyword: "WN, WN Blog, 一朵兔子的博客, 王难, iOS, Apple, iPhone"
 url: "http://ey4295.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ey4295/ey4295.github.io.git" # you code repository
