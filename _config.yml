@@ -1,10 +1,10 @@
 # Site settings
 title: Xuqh Blog
-SEOTitle: 徐清华的博客 | BY Blog
+SEOTitle: 王难的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: xuqh_work@163.com
+email: ey4295@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 一朵兔子的博客, xuqinghua, 徐清华, iOS, Apple, iPhone"
+keyword: "BY, BY Blog, 一朵兔子的博客, 王难, iOS, Apple, iPhone"
 url: "http://ey4295.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ey4295/ey4295.github.io.git" # you code repository
@@ -22,7 +22,7 @@ RSS: false
 #zhihu_username:     qiubaiying
 github_username:    ey4295
 #facebook_username:  baiying.qiu.7
-jianshu_username:   791a58d03bf8
+#jianshu_username:   791a58d03bf8
 #twitter_username:   qiubaiying
 
 
@@ -101,9 +101,6 @@ friends: [
     {
         title: "WY",
         href: "http://zhengwuyang.com"
-    },{
-        title: "简书·XUQH",
-        href: "http://www.jianshu.com/u/791a58d03bf8"
     },{
         title: "Apple",
         href: "https://apple.com"
